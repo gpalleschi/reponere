@@ -1,11 +1,12 @@
 ###
 # Reponere 
- Copyright (C) 2021 GPSoft S.A.
+
  Version: 1.0, date: 15 Mar 2021
+ Under GNU GENERAL PUBLIC LICENSE V3.0.
 
 Reponere is a bash utility script to replace values in ascii files, the name is latin translation of english word "replace".  
  
-Script accepts these arguments [Not positional] : 
+Script accepts these options [Not positional] : 
 
 <table>
     <tr style="background-color:#A9A9A9">
