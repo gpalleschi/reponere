@@ -1,9 +1,6 @@
 ###
 # Reponere 
 
- Version: 1.0, date: 15 Mar 2021
- Under GNU GENERAL PUBLIC LICENSE V3.0.
-
 Reponere is a bash utility script to replace values in ascii files, the name is latin translation of english word "replace".  
  
 Script accepts these options [Not positional] : 
@@ -56,3 +53,19 @@ Script accepts these options [Not positional] :
        reponere -r -opippo -npluto -f*.txt  
        reponere -fv./filevalues.txt -p./DirectoryToWork  
        reponere -fv./filevalues.txt -p./DirectoryToWork -f*.txt -d
+
+### Prerequisites  
+
+None  
+
+## Built With  
+
+* [Visual Code Editor](https://code.visualstudio.com)   
+
+## Authors  
+
+* **Giovanni Palleschi** - [gpalleschi](https://github.com/gpalleschi)  
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE 3.0 License - see the [LICENSE](LICENSE) file for details 
